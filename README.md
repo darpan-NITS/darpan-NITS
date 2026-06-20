@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=900&lines=AI+Systems+Developer;Full+Stack+Builder;Competitive+Programmer;Hackathon+Enthusiast;Building+Impactful+Technology" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=darpan-NITS&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/darpan-NITS?style=for-the-badge&logo=github" />
 
 </div>
 
