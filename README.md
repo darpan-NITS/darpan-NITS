@@ -1,16 +1,20 @@
-# Hi there , I'm Darpan Jyoti Goswami
+<div align="center">
 
-<h3 align="center">
-Electronics & Instrumentation Engineering Student @ NIT Silchar
-</h3>
+# Hey. I'm Darpan Jyoti Goswami
 
-<p align="center">
-Building AI Systems • Full-Stack Applications • Intelligent Automation
-</p>
+### Electronics & Instrumentation Engineering @ NIT Silchar
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+Developer;Full-Stack+Builder;Competitive+Programmer;Hackathon+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=900&lines=AI+Systems+Developer;Full+Stack+Builder;Competitive+Programmer;Hackathon+Enthusiast;Building+Impactful+Technology" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=darpan-NITS&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/darpan-NITS?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/darpan-NITS?style=for-the-badge" />
+
+</div>
 
 ---
 
