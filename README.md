@@ -6,13 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=900&lines=AI+Systems+Developer;Full+Stack+Builder;Competitive+Programmer;Hackathon+Enthusiast;Building+Impactful+Technology" />
 
-
-
 </div>
 
 ---
 
-##  About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="30" /> About Me
 
 *  B.Tech in Electronics & Instrumentation Engineering at **NIT Silchar**
 *  Current CGPA: **8.99**
@@ -28,21 +26,17 @@
 
 ---
 
-##  Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" /> Current Focus
 
-```text
-Building scalable AI-powered applications
-Improving competitive programming skills
-Learning system design fundamentals
-Creating real-world software products
-Exploring intelligent automation systems
-```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+scalable+AI-powered+applications;Improving+competitive+programming+skills;Learning+system+design+fundamentals;Creating+real-world+software+products;Exploring+intelligent+automation+systems" alt="Current Focus Animation" />
+</div>
 
 ---
 
-##  Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Projects
 
-###  ArogyaBot — Multilingual AI Health Triage Assistant
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" /> ArogyaBot — Multilingual AI Health Triage Assistant
 
 * FastAPI-based REST backend
 * Supports 9 languages
@@ -54,7 +48,7 @@ Exploring intelligent automation systems
 
 ---
 
-###  Improving Basket Trading Using Bayesian Optimization
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" /> Improving Basket Trading Using Bayesian Optimization
 
 * Quantitative trading research project
 * Cointegration testing
@@ -66,7 +60,7 @@ Exploring intelligent automation systems
 
 ---
 
-###  ML-Based Object Classifier
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" alt="Camera" width="25" /> ML-Based Object Classifier
 
 * Real-time object classification
 * MobileNetV2 transfer learning
@@ -78,7 +72,7 @@ Exploring intelligent automation systems
 
 ---
 
-###  IoT Smart Flame Detection System
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" /> IoT Smart Flame Detection System
 
 * Real-time flame monitoring
 * Arduino-based architecture
@@ -93,25 +87,25 @@ Exploring intelligent automation systems
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
 ---
 
